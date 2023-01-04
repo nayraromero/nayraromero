@@ -1,7 +1,9 @@
-### Hi there 👋
+## Hi there 👋, my name is Nayra Romero  
+### and I'm a Junior Front-end Developer 💻
 
-<!--
-**nayraromero/nayraromero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My passion for challenges led me to become interested in technology. This made me decide to enter the world of web development, specifically in the front-end, as it links my two passions: ✨ technology and design ✨.
+
+I'm looking for my first professional experience as a front end developer to show what I'm capable of 🙌🏼.
 
 Here are some ideas to get you started:
 
@@ -10,7 +12,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: (nayraromerosalas@gmail.com)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
