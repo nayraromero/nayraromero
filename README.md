@@ -8,5 +8,9 @@ I'm looking for my first professional experience as a front end developer to sho
 📫 How to reach me: nayraromerosalas@gmail.com
 
 ### Technical skills
-
-![html5](https://www.google.com/search?q=html+5&hl=es&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjpiPiDyq78AhWS26QKHRJABFMQ_AUoAXoECAEQAw&biw=580&bih=617&dpr=1.1#imgrc=Fs5Hx6skEBvrNM)
+- HTML5
+- CSS3, SCSS, Bootstrap
+- JS 
+- React
+- Node JS
+- Agile Methodologies (Scrum), VSCode, Git, Github, Gulp, APIs
