@@ -9,4 +9,4 @@ I'm looking for my first professional experience as a front end developer to sho
 
 ### Technical skills
 
-![html5](https://es.wikipedia.org/wiki/HTML5#/media/Archivo:HTML5_logo_and_wordmark.svg)
+![html5](https://www.google.com/search?q=html+5&hl=es&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjpiPiDyq78AhWS26QKHRJABFMQ_AUoAXoECAEQAw&biw=580&bih=617&dpr=1.1#imgrc=Fs5Hx6skEBvrNM)
